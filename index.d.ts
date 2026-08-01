@@ -340,6 +340,7 @@ export declare namespace MET {
       'el': 'Greek',
       'en': 'English',
       'es': 'Spanish',
+      'es-MX': 'Spanish (Mexico)',
       'et': 'Estonian',
       'eu': 'Basque',
       'fa': 'Persian',
